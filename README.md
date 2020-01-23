@@ -1,5 +1,4 @@
 # Internet-of-You
-Exploring the world of possbilities afforded by systems of interrelated computing devices (IoT).
 
 Investigating the ever-expanding world of technological observation (and the consequential decrease of privacy and ephemerality), this project employs IoT technology to capture the various walks of life and analyze the effects of having unlimited access to your own past. 
 
