@@ -1,6 +1,6 @@
 # Internet-of-You
 
-Investigating the ever-expanding world of technological observation (and the consequential decrease of privacy and ephemerality), this project employs IoT technology to capture the various walks of life and analyze the effects of having unlimited access to your own past. 
+In an effort to investigate the ever-expanding world of technological observation (and the consequential decrease of privacy), this project employs IoT technology to analyze the effects of having unlimited access to your own past. 
 
 The purpose of this project is to explore the concepts of privacy and memory (access to history) as they relate to our relationship with technology. Through the course of this, I hope to get closer to answering questions such as, how does the absence of privacy influence our decisions and to what extent will our actions still be genuine while someone/thing is watching? Also, will we as a society benefit from having extensive, objective records of everything that happens or will we become so caught up in the past that we forget to live in the present? How will natural human memory evolve in response to this dependency on digital logs? What about human trust?
  
