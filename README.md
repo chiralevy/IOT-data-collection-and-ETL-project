@@ -1,9 +1,22 @@
-# Internet-of-You
+## IOT Data Collection, ETL, and Web Development Project
 
-In an effort to investigate the ever-expanding world of technological observation (and the consequential decrease of privacy), this project employs IoT technology to analyze the effects of having unlimited access to your own past. 
+General Objectives:
+- Using the onion omega 2 (IOT device), take pictures every 15-30 seconds, obtain GPS coordinates, and record audio
+- Capture multimodal data to onion's SD card, store until the internet is available (then send off)
+- Save (via FTP) to the SFTP server
+- Pick up data (from the server)
+- Process Files to the Database
+- Develop webpage to display IOT data and insights
 
-The purpose of this project is to explore the concepts of privacy and memory (access to history) as they relate to our relationship with technology. Through the course of this, I hope to chip away at questions such as, *how does the absence of privacy influence our decisions* and *to what extent will our actions still be genuine while someone/thing is watching?* Also, *will we as a society benefit from having extensive, objective records of everything that happens or will we become so caught up in the past that we forget to live in the present? How will natural human memory evolve in response to this dependency on digital logs? What about human trust?*
- 
-Contentious questions and concepts of the like are what created this project and I hope are what will inspire others on this platform to further its development in the many years to come. As an advocate of open-source technology, I am open to any suggestions as to how this project should grow structurally and philosophically.
+Project Timeline (by week):
+- June 3-7: Orientation and Setup
+- June 10-14: Preliminary Design/Formats and Capture to SD card
+- June 17-21: Internet Availability Check and send to SFTP
+- June 24-28: Coding File pickup
+- July 1-5: Database Intro and Schema Design
+- July 8-12: ETL to Database
+- July 15-19: Job Scheduling and UI Review/Define/Research
+- July 22-26: Grace Period
+- If time: Facial Recognition; Speech to Text/Geoplotting/Pinpoints/Roles; Data Analysis
 
-The Entire History of You, an episode from the Netflix's Black Mirror series, provided some of the ideological inspiration for creating this project. (History of You, Internet of Things, Internet of You, get it?)
+*Feel free to reach out if you would like to discuss this project in depth.*
