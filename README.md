@@ -1,4 +1,4 @@
-## IOT Data Collection, ETL, and Web Development Project
+## Data Engineering with IOT Sensor Data Project
 
 General Objectives:
 - Using the onion omega 2 (IOT device), take pictures every 15-30 seconds, obtain GPS coordinates, and record audio
