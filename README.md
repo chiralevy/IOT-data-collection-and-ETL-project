@@ -1,4 +1,4 @@
-## Data Engineering with IOT Sensor Data Project
+## Real-time ETL Pipeline for IoT System
 
 General Objectives:
 - Using the onion omega 2 (IOT device), take pictures every 15-30 seconds, obtain GPS coordinates, and record audio
